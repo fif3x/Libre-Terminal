@@ -4,6 +4,8 @@ Free and Open Source Software (FOSS) written mostly by @fif3x
 
 Some pieces of code have been given by @hlelo101, so shoutout to him
 
+To download and use the software, please go to releases.md (https://github.com/fif3x/Libre-Terminal/edit/main/releases.md)
+
 For anything, please contact me:
 Discord: @fif3x_
 
