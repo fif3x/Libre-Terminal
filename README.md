@@ -6,6 +6,8 @@ Some pieces of code have been given by @hlelo101, so shoutout to him
 
 To download and use the software, please go to releases.md (https://github.com/fif3x/Libre-Terminal/edit/main/releases.md)
 
+Official Website Page: [fif3x.github.io/](https://fif3x.github.io/LibreTerminal/libre-terminal.html)
+
 For anything, please contact me:
 Discord: @fif3x_
 
