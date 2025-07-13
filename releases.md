@@ -6,4 +6,4 @@ That means, you can choose what version of the software you download
 
 First Release: https://github.com/fif3x/Libre-Terminal/releases/tag/v1.0.0
 
-Last Release: https://github.com/fif3x/Libre-Terminal/releases/tag/v1.0.5
+Last Release: https://github.com/fif3x/Libre-Terminal/releases/tag/v1.0.6
