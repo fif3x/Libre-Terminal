@@ -1,5 +1,7 @@
 # Libre-Terminal
 
+[![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
+
 Free and Open Source Software (FOSS) written mostly by @fif3x
 
 Some pieces of code have been given by @hlelo101, so shoutout to him
