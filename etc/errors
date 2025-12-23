@@ -1,0 +1,7 @@
+This is a file  containing the error codes and meanings.
+
+001 - Unexpected error
+002 - Invalid Command (you can type "help" to see available commands)
+003 - Config file does not exist. To resolve, either create a config file in ~/.config/libreterminal/ named "config.conf", or enable the minimum option and recompile the program
+004 - Config file is open
+005 - Unrecognized Operating System. Please check the repository for more info, or contact developer
