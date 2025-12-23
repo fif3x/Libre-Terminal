@@ -2,15 +2,14 @@
 
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
 
-Free and Open Source Software (FOSS) written mostly by @fif3x
 
-Some pieces of code have been given by @hlelo101, so shoutout to him
-
-To download and use the software, please go to releases.md (https://github.com/fif3x/Libre-Terminal/edit/main/releases.md)
-
-Official Website Page: [fif3x.github.io/](https://fif3x.github.io/LibreTerminal/libre-terminal.html)
+# Licensing
+Free and Open Source Software (FOSS) program.
+Licensed under the GNU GPL v3 license.
+No warranty.
 
 For anything, please contact me:
-Discord: @fif3x_
+Instagram: @fifex._
+Telegram: t.me/fif3x
 
 ![Screenshot 2025-06-18 200800](https://github.com/user-attachments/assets/63b62b76-2cfe-4747-ba81-1d1e81e974c1)
