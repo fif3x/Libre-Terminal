@@ -1,4 +1,11 @@
 # Libre-Terminal
+What is the goal of Libre Terminal? The goal of this software is to provide users with an easy terminal interface, cutting cross-platform incompatibilities, being extremely fast, and lastly, very customizable, having a configuration & [SOON] plug-in system.
+
+- Easy terminal interface? What do you mean?
+With an easy terminal interface, we refer to one that does not make you memorize either hard names or extremely long commands.
+
+- Cutting cross-platform incompatabilities? What does this mean?
+With the cut of cross-platform incompatabilities we mean stopping the differences between (mainly) Linux with Windows, along with MacOS, and then every other possible OS
 
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
 
