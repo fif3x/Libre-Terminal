@@ -9,6 +9,30 @@ With the cut of cross-platform incompatabilities we mean stopping the difference
 
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
 
+# Installation
+1. Install the repo, you can either do this with Git, the GitHub GUI or GitHub CLI. It's strongly recommended to install it through Git, using this command:
+```bash
+git clone https://github.com/fif3x/Libre-Terminal.git
+```
+
+2. Create the configuration file location needed. For Linux users, just run this:
+```bash
+mkdir -p ~/.config/libreterminal && cd ~/.config/libreterminal && touch config.conf
+```
+and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
+
+2. **C**hange **D**irectory to `build/` and run the file needed for your OS.
+For Windows:
+```bat
+build
+```
+For Linux:
+```bash
+./build.sh
+```
+
+3. If it has been compiled succesfully, your program should be located in either `bin/linux` or `bin/win`
+
 
 # Licensing
 Free and Open Source Software (FOSS) program.
