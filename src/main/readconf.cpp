@@ -44,7 +44,7 @@ void config::read_config()
     }
     else if (OS == win)
     {
-        path = fs::path("C:\\LibreTerminal");
+        path = fs::path("C:\\LibreTerminal\\config.conf");
     }
     else
     {
