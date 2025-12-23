@@ -10,6 +10,9 @@ With the cut of cross-platform incompatabilities we mean stopping the difference
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
 
 # Installation
+
+**NOTE: instead of building the binary yourself, you can also download it through the releases**
+
 1. Install the repo, you can either do this with Git, the GitHub GUI or GitHub CLI. It's strongly recommended to install it through Git, using this command:
 ```bash
 git clone https://github.com/fif3x/Libre-Terminal.git
