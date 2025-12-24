@@ -24,7 +24,7 @@ mkdir -p ~/.config/libreterminal && cd ~/.config/libreterminal && touch config.c
 ```
 and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
 
-2. **C**hange **D**irectory to `build/` and run the file needed for your OS.
+3. **C**hange **D**irectory to `build/` and run the file needed for your OS.
 For Windows:
 ```bat
 build
@@ -34,7 +34,7 @@ For Linux:
 ./build.sh
 ```
 
-3. If it has been compiled succesfully, your program should be located in either `bin/linux` or `bin/win`
+4. If it has been compiled succesfully, your program should be located in either `bin/linux` or `bin/win`
 
 
 # Licensing
