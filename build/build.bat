@@ -1,6 +1,6 @@
 @echo off
 cd ..
-g++ src/main/os.cpp src/main/main.cpp src/main/vars.cpp -o libreterminal
+g++ src/main/os.cpp src/main/main.cpp src/main/vars.cpp src/main/readconf.cpp src/main/log.cpp -o libreterminal
 mkdir bin
 move libreterminal.exe bin/
 cd bin
@@ -11,3 +11,4 @@ libreterminal.exe
 
 cd ../..
 :: Please run this through the cmd, not PowerShell
+
