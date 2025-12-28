@@ -17,20 +17,25 @@ With the cut of cross-platform incompatabilities we mean stopping the difference
 ```bash
 git clone https://github.com/fif3x/Libre-Terminal.git
 ```
-
+/*
 2. Create the configuration file location needed. For Linux users, just run this:
 ```bash
 mkdir -p ~/.config/libreterminal && cd ~/.config/libreterminal && touch config.conf
 ```
 and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
 
-3. **C**hange **D**irectory to `build/` and run the file needed for your OS.
+**After this, do not forget to return back to your installation directory.**
+
+3. Now change directory to the build folder, make the script executable (if needed) and run it
 For Windows:
 ```bat
+cd build
 build
 ```
 For Linux:
 ```bash
+cd build
+chmod +x *
 ./build.sh
 ```
 
