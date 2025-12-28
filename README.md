@@ -9,6 +9,12 @@ With the cut of cross-platform incompatabilities we mean stopping the difference
 
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/fif3x/Libre-Terminal)
 
+# Dependencies
+
+You will need the following packages for this to work: `g++`, `make`
+
+For Linux users, you can check the `dependencies.sh` file in `build/`. For Windows users, please download GCC through MinGW and make through MSYS2 which can be downloaded through winget: `winget install MSYS2.MSYS2` and then on MSYS2 run: `pacman -S make`
+
 # Installation
 
 **NOTE: instead of building the binary yourself, you can also download it through the releases**
