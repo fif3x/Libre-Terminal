@@ -30,8 +30,6 @@ mkdir -p ~/.config/libreterminal && touch ~/.config/libreterminal/config.conf
 ```
 and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
 
-**After this, do not forget to return back to your installation directory.**
-
 3. Now change directory to the build folder, make the script executable (if needed) and run it
 For Windows:
 ```bat
