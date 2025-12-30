@@ -21,7 +21,7 @@ For Linux users, you can check the `dependencies.sh` file in `build/`. For Windo
 
 1. Install the repo, you can either do this with Git, the GitHub GUI or GitHub CLI. It's strongly recommended to install it through Git, using this command:
 ```bash
-git clone https://github.com/fif3x/Libre-Terminal.git
+git clone https://github.com/fif3x/LibreTerminal.git
 ```
 /*
 2. Create the configuration file location needed. For Linux users, just run this:
