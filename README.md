@@ -26,7 +26,7 @@ git clone https://github.com/fif3x/Libre-Terminal.git
 /*
 2. Create the configuration file location needed. For Linux users, just run this:
 ```bash
-mkdir -p ~/.config/libreterminal && cd ~/.config/libreterminal && touch config.conf
+mkdir -p ~/.config/libreterminal && touch ~/.config/libreterminal/config.conf
 ```
 and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
 
