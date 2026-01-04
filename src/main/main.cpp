@@ -44,9 +44,11 @@ E-MAIL: fif3x@disroot.org     NOTE: might not respond quickly, also this e-mail 
 int main()
 {
     
-    os OS;
     
     config::read_config(); // from readconf.h
+
+    os OS;
+    OS = detect_os();
 
     while (true)
     {
@@ -93,12 +95,27 @@ int main()
                 std::cout << Log::logs.at(index) << "\n";
             }
         }
+        else if (input == "show_os" || input == "showos"){
+            std::string os = { };
+            
+            if(OS == lnx){
+                os = "Linux";
+            } else if (OS == win){
+                os = "Windows";
+            } else if (OS == unk){
+                os = "Unknown";
+            }
+            
+            std::cout << "Coded: "<< OS << " | Detected: " << os << std::endl;
+        }
         else
         {
             error_code = 2;
             status_code = 1;
             std::cout << "ERROR 002" << std::endl;
         }
+        
+        Log::logs.push_back(input);
     }
 
     // i use fedora btw
