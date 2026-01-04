@@ -21,7 +21,7 @@ For Linux users, you can check the `dependencies.sh` file in `build/`. For Windo
 
 1. Install the repo, you can either do this with Git, the GitHub GUI or GitHub CLI. It's strongly recommended to install it through Git, using this command:
 ```bash
-git clone https://github.com/fif3x/Libre-Terminal.git
+git clone https://github.com/fif3x/LibreTerminal.git
 ```
 /*
 2. Create the configuration file location needed. For Linux users, just run this:
@@ -29,8 +29,6 @@ git clone https://github.com/fif3x/Libre-Terminal.git
 mkdir -p ~/.config/libreterminal && touch ~/.config/libreterminal/config.conf
 ```
 and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
-
-**After this, do not forget to return back to your installation directory.**
 
 3. Now change directory to the build folder, make the script executable (if needed) and run it
 For Windows:
