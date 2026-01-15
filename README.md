@@ -19,16 +19,17 @@ For Linux users, you can check the `dependencies.sh` file in `build/`. For Windo
 
 **NOTE: instead of building the binary yourself, you can also download it through the releases**
 
+*Note: its heavily discouraged, but if you don't want to download it manually, please run the following command (ONLY FOR LINUX)*
+```
+sh -c "$(curl -sS https://github.com/fif3x/LibreTerminal/build/autobuild.sh)"
+```
+
 1. Install the repo, you can either do this with Git, the GitHub GUI or GitHub CLI. It's strongly recommended to install it through Git, using this command:
 ```bash
 git clone https://github.com/fif3x/LibreTerminal.git
 ```
-/*
-2. Create the configuration file location needed. For Linux users, just run this:
-```bash
-mkdir -p ~/.config/libreterminal && touch ~/.config/libreterminal/config.conf
-```
-and for Windows users, create a file named `config.conf` under the location `C:\\LibreTerminal`
+
+2. If you are a Linux/MacOS user skip this. For Windows users, copy the file named `config.conf` from the repository folder under the 'etc' subfolder to the location `C:\\LibreTerminal`
 
 3. Now change directory to the build folder, make the script executable (if needed) and run it
 For Windows:
@@ -45,12 +46,10 @@ chmod +x *
 
 4. If it has been compiled succesfully, your program should be located in either `bin/linux` or `bin/win`
 
-
 # Licensing
 Free and Open Source Software (FOSS) program.
 Licensed under the GNU GPL v3 license.
 No warranty.
-
 
 # Contact
 For any questions, suggestions, ideas or problems, please contact me on one of the following platforms:
